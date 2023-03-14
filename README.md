@@ -2,6 +2,10 @@
 
 A playground for Django + Type Hints 
 
+See:
+- https://github.com/typeddjango/django-stubs
+- https://github.com/microsoft/pylance-release/issues/14
+
 ## Getting Started
 ```shell
 # Clone repo
